@@ -1,0 +1,1 @@
+# Ufak açıklama eklendi
