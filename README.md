@@ -94,3 +94,4 @@ yarn add web3
 [npm-url]: https://npmjs.org/package/web3
 [downloads-image]: https://img.shields.io/npm/dm/web3?label=npm%20downloads
 - Ufak örnek eklendi: sendTransaction
+- Ufak örnek eklendi: sendTransaction fonksiyonu
