@@ -97,3 +97,4 @@ yarn add web3
 - Ufak örnek eklendi: sendTransaction fonksiyonu
 - Yeni ufak örnek: getBalance fonksiyonu
 - Yeni ufak örnek: sendToken fonksiyonu
+- Ufak Talent puanı örneği: testTransaction fonksiyonu
