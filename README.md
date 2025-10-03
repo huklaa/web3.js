@@ -95,3 +95,5 @@ yarn add web3
 [downloads-image]: https://img.shields.io/npm/dm/web3?label=npm%20downloads
 - Ufak örnek eklendi: sendTransaction
 - Ufak örnek eklendi: sendTransaction fonksiyonu
+- Yeni ufak örnek: getBalance fonksiyonu
+- Yeni ufak örnek: sendToken fonksiyonu
